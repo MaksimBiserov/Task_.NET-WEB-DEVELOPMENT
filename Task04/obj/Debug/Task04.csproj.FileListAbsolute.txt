@@ -1,0 +1,5 @@
+C:\Users\pixel\source\repos\Task_.NET WEB-DEVELOPMENT\Task04\bin\Debug\Task04.exe.config
+C:\Users\pixel\source\repos\Task_.NET WEB-DEVELOPMENT\Task04\bin\Debug\Task04.exe
+C:\Users\pixel\source\repos\Task_.NET WEB-DEVELOPMENT\Task04\bin\Debug\Task04.pdb
+C:\Users\pixel\source\repos\Task_.NET WEB-DEVELOPMENT\Task04\obj\Debug\Task04.exe
+C:\Users\pixel\source\repos\Task_.NET WEB-DEVELOPMENT\Task04\obj\Debug\Task04.pdb

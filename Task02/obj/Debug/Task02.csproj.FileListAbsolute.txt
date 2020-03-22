@@ -1,0 +1,5 @@
+C:\Users\pixel\source\repos\Task_.NET WEB-DEVELOPMENT\Task02\bin\Debug\Task02.exe.config
+C:\Users\pixel\source\repos\Task_.NET WEB-DEVELOPMENT\Task02\bin\Debug\Task02.exe
+C:\Users\pixel\source\repos\Task_.NET WEB-DEVELOPMENT\Task02\bin\Debug\Task02.pdb
+C:\Users\pixel\source\repos\Task_.NET WEB-DEVELOPMENT\Task02\obj\Debug\Task02.exe
+C:\Users\pixel\source\repos\Task_.NET WEB-DEVELOPMENT\Task02\obj\Debug\Task02.pdb
